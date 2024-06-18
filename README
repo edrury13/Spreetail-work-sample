@@ -1,0 +1,10 @@
+The code runs in python3, and was tested in version 3.8.5.  The folowing command can be run to check that python3 is installed:
+
+$ python3 --version
+
+If it isn't installed the following commands will install it:
+
+$ sudo apt-get update
+$ sudo apt-get install python3.8
+
+The script can then be run with either python main.py or python3 main.py depending on your environment
